@@ -3,12 +3,12 @@ Examples of the Transparent GIFs I made using the below workflow are here:
 
 **Meazure Shortcuts** https://github.com/cthing/meazure-linux/issues/3
 
-### Workflow for Transparent GIF
+## Workflow for Transparent GIF
 - OBS: Record clean image assets MOV ProRes 4444 with Alpha
 - GIMP: Clean image assets. Make hard masks.
 - Davinci Resolve: Animate and Render GIF with Alpha
 
-### GIF does Transparency, but with Limits
+## GIF does Transparency, but with Limits
 - GIF does Binary Transparency, not Alpha Transparency
 - GIF **keeps** pixels with 100% Opacity
 - GIF **blacks out** pixels with 1-99% Opacity
